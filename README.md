@@ -4,7 +4,7 @@
 |**Pentester Name**<br>**(Cybersecurity Intern)**|**Ramen Debbarma**|
 |---|---|
 |**Program/Batch**|B083-Networkwalks|
-|**Date**|30 September 2026|
+|**Date**|29 September 2026|
 |**Modules completed**|W4 (Penetration Testing)|
 |**Client/Target**|Mediroza General Hospital / `https://medirozahospital.com`|
 |**Permission secured from**<br>**client?**|Yes|
